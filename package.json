@@ -1,0 +1,15 @@
+{
+  "name": "shop-checkout",
+  "version": "1.0.0",
+  "description": "A small shop sells three products. Write a checkout that takes the items in a basket and returns the total price in pence.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^4.1.12"
+  }
+}
